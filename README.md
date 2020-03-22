@@ -18,7 +18,8 @@ c> Number of transactions: 192,544
 
 #### Contributors:
 
-Sakshi Singla
+Sakshi Singla 
+
 Esther Liu  
 Arthur Qin  
 
